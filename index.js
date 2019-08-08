@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-const token = "process.env.token";
+const token = "Process.env.token";
 const embed = new Discord.RichEmbed()
 .setTitle('Imperial Intelligence Bot')
 .setColor('#00FFFF')
